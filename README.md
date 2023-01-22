@@ -1,2 +1,3 @@
-# nodeJsApp-helloword
-A helloword app using NodeJs
+# nodeJsApp-Express
+
+An express app using NodeJs
